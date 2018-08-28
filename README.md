@@ -8,7 +8,7 @@ Also there are public in this github link:
 The Code is resolve in this folder, but is not complete, remains the internationalization: 
 [https://github.com/geertjanw/ojet-training/tree/master/result](https://github.com/geertjanw/ojet-training/tree/master/result)
 
-Also there is a fix on the CRUD part updating the salary, because it expect a number and you are passing a string, check the `self.updateFields` inside `dashboard.js` to check it.
+There is a fix on the CRUD part updating the salary, because it expect a number and you are passing a string, check the `self.updateFields` inside `dashboard.js` to check it.
 
 ## Instructions
 
